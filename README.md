@@ -4,7 +4,7 @@ Desenvolvedor Back-End NodeJS
 
 ## Sobre
 
-Sou desenvolvedor back-end NodeJS, tenho 20 anos, atualmente formado em Análise e desenvolvimento de sistemas, tenho como foco buscar sempre as melhores abordagens para resolver diversos tipos de problemas de maneira eficaz, organizada, e sempre utilizando boas práticas de programação como: S.O.L.I.D, Clean Architecture, Clean Code. 
+Sou desenvolvedor back-end NodeJS, tenho 21 anos, atualmente formado em Análise e desenvolvimento de sistemas, tenho como foco buscar sempre as melhores abordagens para resolver diversos tipos de problemas de maneira eficaz, organizada, e sempre utilizando boas práticas de programação como: S.O.L.I.D, Clean Architecture, Clean Code. 
 
 ## Tecnologias
 
