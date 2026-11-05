@@ -16,7 +16,7 @@ Desenvolvedor Backend com mais de 2 anos de experiência construindo APIs, integ
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/white"><img align="center" alt="Kafka" height="30" width="40" src="https://cdn.simpleicons.org/apachekafka/000000"></picture>
   <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
